@@ -134,3 +134,15 @@ button:hover {
   background-color: #f0c040;
 }
 
+/* Filter */
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: solid #c0c0c0 0.1rem;
+}
+
+.filter div {
+  flex: 1;
+}
